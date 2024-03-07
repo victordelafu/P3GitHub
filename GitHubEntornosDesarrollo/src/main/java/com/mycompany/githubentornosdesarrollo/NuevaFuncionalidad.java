@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Alumno
+ * @author Alumno victor de la fuente
  */
 public class NuevaFuncionalidad {
     static Scanner entrada = new Scanner(System.in);
