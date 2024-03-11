@@ -15,6 +15,7 @@ public class RodriHaEstadoAqui {
      */
     public static void main(String[] args) {
         System.out.println("Hola Vitin");
+        System.out.println("Como estas");
     }
     
 }
