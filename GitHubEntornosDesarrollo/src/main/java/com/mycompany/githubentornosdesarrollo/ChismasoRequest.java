@@ -8,14 +8,13 @@ package com.mycompany.githubentornosdesarrollo;
  *
  * @author Alumno
  */
-public class RodriHaEstadoAqui {
+public class ChismasoRequest {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Vitin");
-        System.out.println("Como estas");
+        System.out.println("Hola Delafu\ncomo tu esta?");
     }
     
 }
